@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "dTNHOBvp2OvGW4/eYkwdG8uoCLuYRO1nSxH8RmFJWJcPAnHCkJUiFSflrOEEPgwj7o+i4qc3tcen5B4y1lSGZQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\r1c4r\\OneDrive\\Área de Trabalho\\SAP PROJ SN\\SAP PROJ SN.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\r1c4r\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\7.0.10\\microsoft.netcore.app.runtime.win-x86.7.0.10.nupkg.sha512",
+    "C:\\Users\\r1c4r\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\7.0.10\\microsoft.windowsdesktop.app.runtime.win-x86.7.0.10.nupkg.sha512",
+    "C:\\Users\\r1c4r\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\7.0.10\\microsoft.aspnetcore.app.runtime.win-x86.7.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}

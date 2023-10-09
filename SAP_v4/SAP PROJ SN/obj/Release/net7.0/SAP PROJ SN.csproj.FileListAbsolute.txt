@@ -1,0 +1,29 @@
+C:\Users\r1c4r\OneDrive\Área de Trabalho\SAP BACK\SAP PROJ SN\bin\Release\net7.0\SAP PROJ SN.exe
+C:\Users\r1c4r\OneDrive\Área de Trabalho\SAP BACK\SAP PROJ SN\bin\Release\net7.0\SAP PROJ SN.deps.json
+C:\Users\r1c4r\OneDrive\Área de Trabalho\SAP BACK\SAP PROJ SN\bin\Release\net7.0\SAP PROJ SN.runtimeconfig.json
+C:\Users\r1c4r\OneDrive\Área de Trabalho\SAP BACK\SAP PROJ SN\bin\Release\net7.0\SAP PROJ SN.dll
+C:\Users\r1c4r\OneDrive\Área de Trabalho\SAP BACK\SAP PROJ SN\bin\Release\net7.0\SAP PROJ SN.pdb
+C:\Users\r1c4r\OneDrive\Área de Trabalho\SAP BACK\SAP PROJ SN\obj\Release\net7.0\SAP PROJ SN.csproj.AssemblyReference.cache
+C:\Users\r1c4r\OneDrive\Área de Trabalho\SAP BACK\SAP PROJ SN\obj\Release\net7.0\SAP PROJ SN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\r1c4r\OneDrive\Área de Trabalho\SAP BACK\SAP PROJ SN\obj\Release\net7.0\SAP PROJ SN.AssemblyInfoInputs.cache
+C:\Users\r1c4r\OneDrive\Área de Trabalho\SAP BACK\SAP PROJ SN\obj\Release\net7.0\SAP PROJ SN.AssemblyInfo.cs
+C:\Users\r1c4r\OneDrive\Área de Trabalho\SAP BACK\SAP PROJ SN\obj\Release\net7.0\SAP PROJ SN.csproj.CoreCompileInputs.cache
+C:\Users\r1c4r\OneDrive\Área de Trabalho\SAP BACK\SAP PROJ SN\obj\Release\net7.0\SAP PROJ SN.dll
+C:\Users\r1c4r\OneDrive\Área de Trabalho\SAP BACK\SAP PROJ SN\obj\Release\net7.0\refint\SAP PROJ SN.dll
+C:\Users\r1c4r\OneDrive\Área de Trabalho\SAP BACK\SAP PROJ SN\obj\Release\net7.0\SAP PROJ SN.pdb
+C:\Users\r1c4r\OneDrive\Área de Trabalho\SAP BACK\SAP PROJ SN\obj\Release\net7.0\SAP PROJ SN.genruntimeconfig.cache
+C:\Users\r1c4r\OneDrive\Área de Trabalho\SAP BACK\SAP PROJ SN\obj\Release\net7.0\ref\SAP PROJ SN.dll
+C:\Users\r1c4r\OneDrive\Área de Trabalho\SAP PROJ SN\obj\Release\net7.0\SAP PROJ SN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\r1c4r\OneDrive\Área de Trabalho\SAP PROJ SN\obj\Release\net7.0\SAP PROJ SN.AssemblyInfoInputs.cache
+C:\Users\r1c4r\OneDrive\Área de Trabalho\SAP PROJ SN\obj\Release\net7.0\SAP PROJ SN.AssemblyInfo.cs
+C:\Users\r1c4r\OneDrive\Área de Trabalho\SAP PROJ SN\obj\Release\net7.0\SAP PROJ SN.csproj.CoreCompileInputs.cache
+C:\Users\r1c4r\OneDrive\Área de Trabalho\SAP PROJ SN\obj\Release\net7.0\SAP PROJ SN.genruntimeconfig.cache
+C:\Users\r1c4r\OneDrive\Área de Trabalho\SAP PROJ SN\bin\Release\net7.0\GERADOR DE SN ( SAP ).exe
+C:\Users\r1c4r\OneDrive\Área de Trabalho\SAP PROJ SN\bin\Release\net7.0\GERADOR DE SN ( SAP ).deps.json
+C:\Users\r1c4r\OneDrive\Área de Trabalho\SAP PROJ SN\bin\Release\net7.0\GERADOR DE SN ( SAP ).runtimeconfig.json
+C:\Users\r1c4r\OneDrive\Área de Trabalho\SAP PROJ SN\bin\Release\net7.0\GERADOR DE SN ( SAP ).dll
+C:\Users\r1c4r\OneDrive\Área de Trabalho\SAP PROJ SN\bin\Release\net7.0\GERADOR DE SN ( SAP ).pdb
+C:\Users\r1c4r\OneDrive\Área de Trabalho\SAP PROJ SN\obj\Release\net7.0\GERADOR DE SN ( SAP ).dll
+C:\Users\r1c4r\OneDrive\Área de Trabalho\SAP PROJ SN\obj\Release\net7.0\refint\GERADOR DE SN ( SAP ).dll
+C:\Users\r1c4r\OneDrive\Área de Trabalho\SAP PROJ SN\obj\Release\net7.0\GERADOR DE SN ( SAP ).pdb
+C:\Users\r1c4r\OneDrive\Área de Trabalho\SAP PROJ SN\obj\Release\net7.0\ref\GERADOR DE SN ( SAP ).dll
