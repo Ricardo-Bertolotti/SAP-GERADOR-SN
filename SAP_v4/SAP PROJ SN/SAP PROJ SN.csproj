@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net7.0</TargetFramework>
+    <RootNamespace>SAP_PROJ_SN</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <ApplicationIcon>SAP_ico.ico</ApplicationIcon>
+    <Title>TITULOTITULO</Title>
+    <Authors>Ricardo Bertolotti</Authors>
+    <Product>GERADOR DE SN PADRÃO SAP</Product>
+    <Company>EMPRESABUSINESS</Company>
+    <Description>DESCRIÇÃO PROGRAM
+</Description>
+    <Copyright>© Ricardo Bertolotti - 2023</Copyright>
+    <FileVersion>4.0.0.0</FileVersion>
+    <SignAssembly>False</SignAssembly>
+    <AssemblyName>GERADOR DE SN ( SAP )</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="SAP_ico.ico" />
+  </ItemGroup>
+
+</Project>
